@@ -24,11 +24,13 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0011-container-with-most-water](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0125-valid-palindrome](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
