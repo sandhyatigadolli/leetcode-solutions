@@ -13,6 +13,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0001-two-sum](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0035-search-insert-position](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -58,6 +59,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0278-first-bad-version](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0704-binary-search](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 ## Interactive
