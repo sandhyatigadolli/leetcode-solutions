@@ -16,6 +16,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0015-3sum](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0035-search-insert-position](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
@@ -102,6 +103,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0078-subsets/) | Medium |
