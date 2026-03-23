@@ -15,6 +15,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0011-container-with-most-water](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0035-search-insert-position](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0042-trapping-rain-water](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0162-find-peak-element](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0704-binary-search](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -32,6 +33,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0443-string-compression/) | Medium |
@@ -72,6 +74,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0509-fibonacci-number](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -81,4 +84,12 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
