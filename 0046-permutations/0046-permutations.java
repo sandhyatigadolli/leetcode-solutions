@@ -2,11 +2,11 @@ class Solution {
     public List<List<Integer>> permute(int[] nums) {
     List<List<Integer>> result = new ArrayList<>();
     boolean[] used = new boolean[nums.length];
-    bracktrack(nums, used, new ArrayList<>(),result);
+    backtrack(nums,used,new ArrayList<>(),result);
     return result;    
     }
 
-    public static void bracktrack(int[] nums, boolean[] used,List<Integer> current, List<List<Integer>> result) {
+    public static void backtrack(int[] nums,boolean[] used,List<Integer> current,List<List<Integer>> result) {
         if(current.size()==nums.length) {
             result.add(new ArrayList<>(current));
             return;
@@ -16,9 +16,7 @@ class Solution {
 
             used[i]=true;
             current.add(nums[i]);
-
-            bracktrack(nums,used,current,result);
-
+            backtrack(nums,used,current,result);
             current.remove(current.size()-1);
             used[i]=false;
         }
