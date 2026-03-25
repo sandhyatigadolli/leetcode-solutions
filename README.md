@@ -34,6 +34,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0001-two-sum](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0217-contains-duplicate](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Two Pointers
@@ -52,6 +53,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0003-longest-substring-without-repeating-characters](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0125-valid-palindrome](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0443-string-compression](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0443-string-compression/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -68,6 +70,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Binary Search
