@@ -14,6 +14,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0001-two-sum](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
@@ -76,6 +77,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0162-find-peak-element](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0278-first-bad-version](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0278-first-bad-version/) | Easy |
