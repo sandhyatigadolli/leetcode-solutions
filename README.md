@@ -25,6 +25,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0090-subsets-ii](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0217-contains-duplicate](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0496-next-greater-element-i](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0704-binary-search](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -36,6 +37,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0003-longest-substring-without-repeating-characters](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0217-contains-duplicate](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0496-next-greater-element-i](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Two Pointers
@@ -106,10 +108,12 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0020-valid-parentheses](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0155-min-stack](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
+| [0496-next-greater-element-i](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0496-next-greater-element-i](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
