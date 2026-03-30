@@ -22,8 +22,11 @@ class Solution {
         }
          curr = curr.next;
     }  
-    if(list!=null) {
-    } 
+    if(list1!=null) {
+         curr.next=list1;
+    }  else {
+         curr.next = list2;
+    }
     return dummy.next; 
     }
 }
