@@ -27,6 +27,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0162-find-peak-element](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0217-contains-duplicate](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0283-move-zeroes](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0496-next-greater-element-i](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0704-binary-search](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
@@ -59,6 +60,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0142-linked-list-cycle-ii](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0283-move-zeroes](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0443-string-compression](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0443-string-compression/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
