@@ -102,11 +102,13 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0035-search-insert-position](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0162-find-peak-element](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0278-first-bad-version](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0278-first-bad-version/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0278-first-bad-version/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
