@@ -3,17 +3,17 @@ class Solution {
     Deque<Integer> dq = new ArrayDeque<>();
     int[] result = new int[nums.length - k+1];
     for(int i = 0; i<nums.length;i++) {
-          if(!dq.isEmpty() && dq.peekFirst()<i-k+1) {
+        int index = i-k+1;
+          if(!dq.isEmpty() && dq.peekFirst() < index) {
             dq.pollFirst();
           }
-
           while (!dq.isEmpty() && nums[dq.peekLast()] < nums[i]) {
             dq.pollLast();
           }
-          dq.addLast(i);
+          dq.offerLast(i);
 
           if (i >= k-1) {
-        result[i-k+1] = nums[dq.peekFirst()];
+        result[index] = nums[dq.peekFirst()];
     }
     }
 return result;
