@@ -24,6 +24,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0047-permutations-ii](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0162-find-peak-element](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0217-contains-duplicate](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -114,6 +115,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
