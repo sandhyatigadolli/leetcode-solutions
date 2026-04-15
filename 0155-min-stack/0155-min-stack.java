@@ -25,7 +25,6 @@ class MinStack {
     }
     
     public int top() {
-
        return stack.peek(); 
     }
     
