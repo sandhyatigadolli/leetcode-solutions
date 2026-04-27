@@ -8,6 +8,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0070-climbing-stairs](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -130,6 +131,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0032-longest-valid-parentheses](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0055-jump-game](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
+| [0070-climbing-stairs](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
@@ -141,6 +143,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
