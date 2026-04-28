@@ -9,6 +9,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0007-reverse-integer](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0070-climbing-stairs](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0189-rotate-array](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Array
@@ -32,6 +33,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0134-gas-station](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
+| [0189-rotate-array](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -78,6 +80,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0142-linked-list-cycle-ii](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0189-rotate-array](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0443-string-compression/) | Medium |
