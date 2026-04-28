@@ -38,6 +38,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0268-missing-number](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -59,6 +60,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0268-missing-number](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -101,6 +103,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0217-contains-duplicate](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
