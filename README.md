@@ -9,6 +9,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0007-reverse-integer](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0070-climbing-stairs](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0268-missing-number](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -34,6 +35,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0215-kth-largest-element-in-an-array](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0268-missing-number](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -54,6 +56,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0142-linked-list-cycle-ii](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0217-contains-duplicate](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -96,6 +99,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0047-permutations-ii](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Greedy
@@ -119,6 +123,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0033-search-in-rotated-sorted-array](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0162-find-peak-element](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
+| [0268-missing-number](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
@@ -180,6 +185,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0078-subsets](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
