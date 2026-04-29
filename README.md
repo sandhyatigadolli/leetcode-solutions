@@ -101,6 +101,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0345-reverse-vowels-of-a-string](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0443-string-compression](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0443-string-compression/) | Medium |
+| [3813-vowel-consonant-score](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/3813-vowel-consonant-score/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -250,4 +251,8 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3813-vowel-consonant-score](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/3813-vowel-consonant-score/) | Easy |
 <!---LeetCode Topics End-->
