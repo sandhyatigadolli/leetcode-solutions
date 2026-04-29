@@ -10,6 +10,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0009-palindrome-number](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0070-climbing-stairs](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Array
@@ -34,6 +35,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0136-single-number](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0189-rotate-array](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -255,4 +257,12 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3813-vowel-consonant-score](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/3813-vowel-consonant-score/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
