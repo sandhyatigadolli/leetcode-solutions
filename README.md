@@ -60,6 +60,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0912-sort-an-array](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +105,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0443-string-compression](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0443-string-compression/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,12 +136,14 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0442-find-all-duplicates-in-an-array](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0134-gas-station/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +163,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0278-first-bad-version](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
