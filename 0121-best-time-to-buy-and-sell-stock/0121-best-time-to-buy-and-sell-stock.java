@@ -5,11 +5,10 @@ class Solution {
     for(int i=0;i<prices.length;i++) {
         if(prices[i] < minPrice) {
             minPrice = prices[i];
+        } else {
+            maxPrice = Math.max(maxPrice, prices[i] - minPrice);
         }
-        else {
-            maxPrice = Math.max(maxPrice,prices[i]-minPrice);
-        }
-    }
-return maxPrice;
+    } 
+    return maxPrice;   
     }
 }
