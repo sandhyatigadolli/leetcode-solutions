@@ -29,6 +29,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0042-trapping-rain-water](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
@@ -168,6 +169,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
@@ -254,6 +256,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
