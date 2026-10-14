@@ -41,6 +41,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0134-gas-station](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
+| [0169-majority-element](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -70,6 +71,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0141-linked-list-cycle](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0169-majority-element](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
@@ -128,6 +130,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0047-permutations-ii](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0075-sort-colors](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -262,6 +265,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
@@ -278,6 +282,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Prefix Sum
@@ -316,4 +321,8 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
