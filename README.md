@@ -40,6 +40,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0134-gas-station](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0136-single-number/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0162-find-peak-element](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
@@ -185,6 +186,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0070-climbing-stairs](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
