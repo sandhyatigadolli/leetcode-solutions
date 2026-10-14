@@ -332,4 +332,12 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | ------- | ------- |
 | [0169-majority-element](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
