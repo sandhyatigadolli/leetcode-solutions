@@ -46,6 +46,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0204-count-primes](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -73,6 +74,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0160-intersection-of-two-linked-lists](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -133,6 +135,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | [0169-majority-element](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -283,6 +286,7 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Prefix Sum
@@ -325,4 +329,5 @@ This repository contains my LeetCode solutions synced using LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/sandhyatigadolli/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
