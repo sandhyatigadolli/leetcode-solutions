@@ -1,37 +1,25 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-    Arrays.sort(nums);
-    List<List<Integer>> result = new ArrayList<>();
-    for(int i=0;i<nums.length-2;i++) {
-    int left = i+1, right = nums.length-1;
-     if(i>0 && nums[i]==nums[i-1]) {
-        continue;
-     }    
+    int n = nums.length;
+    if(n<3) {
+        return new ArrayList<>();
+    }   
 
-    while(left<right) {
-         int sum = nums[i]+ nums[left]+nums[right];
-        if(sum==0){
-        result.add(Arrays.asList(nums[i],nums[left],nums[right]));
-        left++;
-        right--;
+    Set<List<Integer>> uniqueValues = new HashSet<>();
+    for(int first =0;first<n-2;first++) {
+        Set<Long> seenValues = new HashSet<>();
+        for(int second=first+1;second<n;second++) {
+            long thirdValue =-((long) nums[first]+nums[second]);
 
-    while(left < right && nums[left] < nums[left-1]) {
-        left++;
-    }
-    while(left< right && nums[right] < nums[right-1]) {
-        right--;
-    }
+            if(seenValues.contains(thirdValue)) {
+                List<Integer> triplet = new ArrayList<>(Arrays.asList(nums[first],nums[second],(int) thirdValue));
+                Collections.sort(triplet);
+                uniqueValues.add(triplet);
+            }
+            seenValues.add((long)nums[second]);
         }
 
-    else if(sum < 0){
-        left++;
+    } 
+    return new ArrayList<>(uniqueValues);
     }
- else {
-        right--;
-    }
-    }
-    }
-    
-    return result;
-}
 }
